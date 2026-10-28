@@ -16,6 +16,9 @@ A professional, object-oriented desktop application built in **Java** utilizing 
 
 ## 📂 Project Directory Structure
 
+
+<img width="1024" height="778" alt="b90fbda3-9578-4577-bd82-d9745de430d5" src="https://github.com/user-attachments/assets/51cda638-ee2d-4b95-a3ba-8bffb8378b3e" />
+
 ```text
 codeAlpha-HotelReservationSystem/
 │
